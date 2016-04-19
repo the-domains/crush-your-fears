@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "At times each of us get to the end of a pier in our lives and don't know how to move forward. It's at those times we need something to get us in the water. If you're at the theoretical end of a pier, you've come to the right place. We'll help you across..."
-datePublished: '2016-04-19T07:25:22.903Z'
-dateModified: '2016-04-19T07:25:13.186Z'
+datePublished: '2016-04-19T07:26:41.875Z'
+dateModified: '2016-04-19T07:25:26.353Z'
 title: When You Need a Boat
 author: []
+sourcePath: _posts/2016-04-19-when-you-need-a-boat.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-when-you-need-a-boat.md
-published: true
 url: when-you-need-a-boat/index.html
 _type: Article
 
