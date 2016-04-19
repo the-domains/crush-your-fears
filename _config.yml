@@ -1,0 +1,28 @@
+name: Crush Your Fears
+favicon: null
+layout_spectrum: 0.08853945694863796
+typography_spectrum: 0.36028563091531396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7874485119245946
+  lightness: 0.7336952853947878
+  saturation: 0.617665417259559
+  rhythmicContrast: 0.6210689728613943
+purpose: []
