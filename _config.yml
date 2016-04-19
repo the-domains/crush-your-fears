@@ -1,7 +1,7 @@
 name: Crush Your Fears
 favicon: null
-layout_spectrum: 0.15282
-typography_spectrum: 0.36028563091531396
+layout_spectrum: 0
+typography_spectrum: 0.04681
 cta:
   domain: null
   bucket: null
